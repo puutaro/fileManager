@@ -22,7 +22,7 @@ Table of Contents
 	* [STOP](#stop)
 	* [SETTING](#setting)
 	* [INSTALL](#install)
-* [Long press link](#long-press-link)
+* [Long press menu](#long-press-menu)
 	* [Src anckor](#src-anckor)
  	* [Src image anchor](#src-image-anchor)
   	* [Image anchor](#image-anchor) 
@@ -100,12 +100,12 @@ Detail setting
 Install requirement package
 
 
-## Long press link
+## Long press menu
 ---------
 
 ### Src anckor
 
-| Link type | Action | 
+| Menu name | Action | 
 | -------------- | -------------- |
 | copyLink.js | Copy link |
 | passQr.js | QR code to transfer other android (only -5M) |
@@ -113,7 +113,7 @@ Install requirement package
 
 ### Src image anchor
 
-| Link type | Action | 
+| Menu name | Action | 
 | -------------- | -------------- |
 | copyLink.js | Copy link |
 | passQr.js | QR code to transfer other android (only -5M) |
