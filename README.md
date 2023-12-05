@@ -23,6 +23,9 @@ Table of Contents
 	* [SETTING](#setting)
 	* [INSTALL](#install)
 * [Long press link](#long-press-link)
+	* [Src anckor](#src-anckor)
+ 	* [Src image anchor](#src-image-anckor)
+  	* [Image anchor](#image-anckor) 
 * [Setting variables](#setting-variables)
 	* [homeScriptUrlsPath](#homescripturlspath)
 	* [scriptFileName](#scriptfilename)
@@ -100,11 +103,26 @@ Install requirement package
 ## Long press link
 ---------
 
+### Src anckor
+
 | Link type | Action | 
 | -------------- | -------------- |
-| src anckor | Copy link |
-| src image anchor | Copy link |
-| image anchor | x |
+| copyLink.js | Copy link |
+| passQr.js | QR code to transfer other android (only -5M) |
+| passQrbyScp.js | QR code to transfer other android by Scp (fast and limitless) |
+
+### Src image anchor
+
+| Link type | Action | 
+| -------------- | -------------- |
+| copyLink.js | Copy link |
+| passQr.js | QR code to transfer other android (only -5M) |
+| passQrbyScp.js | QR code to transfer other android by Scp (fast and limitless) |
+
+
+### Image anchor
+
+None
 
 
 ## Setting variables
