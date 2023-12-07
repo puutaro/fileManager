@@ -13,6 +13,7 @@ Table of Contents
 -------
 <!-- vim-markdown-toc GFM --> 
 * [Installation](#installation)
+* [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Toolbar buttons](#toolbar-buttons)
 	* [Play Button](#play-button)
